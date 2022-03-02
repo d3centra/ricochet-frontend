@@ -4,9 +4,10 @@
   flex-direction: column;
   border-radius: 10px;
   background: transparent;
-  color: var(--color-black-dark);
+  color: #868990;
   width: 100%;
   font-size: 14px;
+  border: 1px solid #2d2d32;
   @include tablet {
   }
 }
